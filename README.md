@@ -1,6 +1,6 @@
 # 💼 Sobre mim
 
-Sou **Programador no Instituto Butantan**, com forte atuação em desenvolvimento de sistemas modernos, automação de processos e integração de tecnologias. Além da programação, atuo como **empreendedor** e **especialista em marketing digital**, criando soluções que geram resultados concretos.
+Sou **Programador no Instituto Butantan**, com forte atuação em desenvolvimento de sistemas modernos, automação de processos e integração de tecnologias. Além da programação, atuo como **empreendedor**, criando soluções que geram resultados concretos.
 
 ---
 
