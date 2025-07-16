@@ -1,7 +1,8 @@
 # 💼 Sobre mim
 
-Sou **Programador no Instituto Butantan**, com forte atuação em desenvolvimento de sistemas modernos, automação de processos e integração de tecnologias. Além da programação, atuo como **empreendedor**, criando soluções que geram resultados concretos.
+Desenvolvedor Backend com foco em escalabilidade, segurança e integração de sistemas. Atuo com PHP moderno (Laravel 12, CodeIgniter 3, Slim 3), bancos relacionais e plataformas SAP voltadas ao learning corporativo. Experiência em projetos de missão crítica, arquitetura SOLID/POO e produção de treinamentos técnicos. 
 
+Nas horas vagas, você provavelmente vai me encontrar passeando com meu Border Collie, curtindo momentos em família ou concentrado em projetos pessoais. Apesar da rotina puxada, venho me disciplinando cada vez mais para equilibrar estudo e prática. Sigo o princípio do 80/20: foco no que gera resultado real.
 ---
 
 ## 🛠️ Tecnologias que domino
@@ -59,3 +60,4 @@ Sou **Programador no Instituto Butantan**, com forte atuação em desenvolviment
 ## 📫 Contato profissional
 
 📧 iagosantosrcorp@gmail.com
+📧 parcerias@isrcreatives.com.br
